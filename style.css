@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ body{
+    text-align: center;
+    font-size: large;
+    margin: 5%;
+    
+    font-weight: bolder;
+    background-size: cover;
+    
+}
